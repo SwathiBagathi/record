@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--Heading Tags-->
+    <h1>Heading 1</h1>
+    <h2>Heading 2</h2>
+    <h3>Heading 3</h3>
+    <h4>Heading 4</h4>
+    <h5>Heading 5</h5>
+    <h6>Heading 6</h6>
+    <!--comment tag-->
+    <!--write your comments here-->
+    <!--paragraph tag-->
+    <p>A paragraph always start on a new line</p>
+    <p>This is a paragraph</p>
+    <p>This is another paragraph</p>
+    <!--Horizental tag-->
+    <hr>
+    <!--break tag=represents new line-->
+    <br>break tag
+    <!--html formatting elements-->
+   <br> <b>Bold text</b>
+   <br><strong>Important text</strong>
+   <br><i>italic text</i>
+   <br><em>Emphasized text</em>
+   <br><small>Smaller text</small>
+   <br><del>Deleted text</del>
+   <br><ins>Inserted text</ins>
+   <br><sub>Subscript text</sub>
+   <br><sup>Superscript text</sup>
+   <!--html hyper links-->
+   <br><a href="https://www.Google.com/">Google Home Page</a>
+   <!--html image as a link-->
+   <br><a href="https://www.bing.com/th?id=OIP.VEZebOkJUQmF2d2IFUfloQHaGL&w=273&h=228&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">image link</a>
+   <!--image tags-->
+   <img src="https://img.freepik.com/free-vector/color-wing-transparent-set_1284-8933.jpg?w=740&t=st=1668348854~exp=1668349454~hmac=622f9d1fdae82008bb89832890784df9859a71e34211b81cc1e92f7c8f4049bb" alt="" width="150px;" height="150px;">
+   <!--html unorderedlist-->
+   <ul>
+    <li>AAA</li>
+    <li>BBB</li>
+    <li>CCC</li>
+   </ul>
+   <!--ordered list-->
+   <ol>
+    <li>AAA</li>
+    <li>BBB</li>
+    <li>CCC</li>
+   </ol>
+   <!--description list-->
+   <dl>
+    <dt>Coffee</dt>
+    <dd>Black hot drink</dd>
+    <dt>Milk</dt>
+    <dd>-White cold drink</dd>
+   </dl>
+</body>
+</html>
